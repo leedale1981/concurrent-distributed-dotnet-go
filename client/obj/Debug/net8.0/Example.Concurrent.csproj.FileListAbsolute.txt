@@ -1,0 +1,14 @@
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\bin\Debug\net8.0\Example.Concurrent.exe
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\bin\Debug\net8.0\Example.Concurrent.deps.json
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\bin\Debug\net8.0\Example.Concurrent.runtimeconfig.json
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\bin\Debug\net8.0\Example.Concurrent.dll
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\bin\Debug\net8.0\Example.Concurrent.pdb
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\obj\Debug\net8.0\Example.Concurrent.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\obj\Debug\net8.0\Example.Concurrent.AssemblyInfoInputs.cache
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\obj\Debug\net8.0\Example.Concurrent.AssemblyInfo.cs
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\obj\Debug\net8.0\Example.Concurrent.csproj.CoreCompileInputs.cache
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\obj\Debug\net8.0\Example.Concurrent.dll
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\obj\Debug\net8.0\refint\Example.Concurrent.dll
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\obj\Debug\net8.0\Example.Concurrent.pdb
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\obj\Debug\net8.0\Example.Concurrent.genruntimeconfig.cache
+D:\src\Examples\DotnetConcurrentApp\Example.Concurrent\obj\Debug\net8.0\ref\Example.Concurrent.dll
